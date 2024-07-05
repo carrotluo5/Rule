@@ -1,3 +1,6 @@
 payload:
-
+ - DOMAIN-SUFFIX,tqos-yun.listdl.com
+ - DOMAIN-SUFFIX,glcs.listdl.com
+ - DOMAIN-SUFFIX,dl.listdl.com
+ - DOMAIN-SUFFIX,aki-game.net
  - PROCESS-NAME,Client-Win64-Shipping.exe
