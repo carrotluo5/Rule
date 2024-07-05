@@ -1,5 +1,3 @@
 payload:
-# - DOMAIN,p-events-delivery.akamaized.net
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,dlsite.jp
-
