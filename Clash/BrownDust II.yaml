@@ -1,2 +1,4 @@
 payload:
+ - DOMAIN-SUFFIX,bd2.pmang.cloud
+ - DOMAIN-SUFFIX,neonapi.com
  - PROCESS-NAME,BrownDust II.exe
