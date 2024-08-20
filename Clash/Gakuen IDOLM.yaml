@@ -1,6 +1,2 @@
 payload:
  - DOMAIN-SUFFIX,game-gakuen-idolmaster.jp
- - IP-CIDR,34.120.143.0/24
- - IP-CIDR,99.86.147.0/24
- - IP-CIDR,34.144.250.0/24
- - IP-CIDR,18.244.61.0/24
