@@ -6066,4 +6066,3 @@ payload:
   - IP-CIDR6,2001:b28:f23f::/48
   - IP-CIDR6,2a0a:f280::/32
   - DOMAIN-SUFFIX,basic-static-server.infinitynewtab.com
-  - DOMAIN-SUFFIX,pti.store.microsoft.com
